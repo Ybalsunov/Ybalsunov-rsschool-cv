@@ -42,7 +42,7 @@ working on it...
 * Courses: 
     * HTML Code Basics 
     * CSS  Code Basics
-    * JS   hexlet.io
+    * JS   hexlet.io  
 
 ### **English:**
 
