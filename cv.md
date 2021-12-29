@@ -4,6 +4,7 @@
 * Email: ybals85@gmail.com
 * Tel: +375 29 193 48 83
 * Discord: Yuriy_bals#9598
+
 ### **About myself:**
 
 Let me introduce myself. 
@@ -42,6 +43,7 @@ working on it...
     * HTML Code Basics 
     * CSS  Code Basics
     * JS   hexlet.io
+
 ### **English:**
 
 Elementary (A2)
