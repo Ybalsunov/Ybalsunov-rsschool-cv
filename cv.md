@@ -11,6 +11,32 @@ My name is Yuriy Balsunov. I am 36 years old, I live and work in Belarus. I try 
 * HTML 
 * CSS
 * JS
+### **Code example**
+``` 
+const isPrime = (num) => {
+  let i = 2;
+  if (num < i) {
+    return false;
+  }
+  if (num >= i) {
+    for (i = 2; i < num; i += 1) {
+      if (num % i === 0) {
+        return false;
+      }
+    } return true;
+  }
+};
+```
+### **Work experience**
+working on it
+### **My education**
+* University: BELARUSIAN-RUSSIAN UNIVERSITY
+* Courses: 
+    * HTML Code Basics 
+    * CSS  Code Basics
+    * JS   hexlet.io
+### **English** 
+Elementary (A2)
 
 
 
