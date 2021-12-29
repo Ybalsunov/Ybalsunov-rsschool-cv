@@ -1,4 +1,5 @@
 # **Yuriy Balsunov**
+
 ### **My contacts:**
 * Email: ybals85@gmail.com
 * Tel: +375 29 193 48 83
@@ -41,7 +42,7 @@ working on it...
     * HTML Code Basics 
     * CSS  Code Basics
     * JS   hexlet.io
-### **English:** 
+### **English:**
 
 Elementary (A2)
 
